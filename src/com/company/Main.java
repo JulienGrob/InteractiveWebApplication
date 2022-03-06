@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
         QuadraticEquation equ = new QuadraticEquation();
         equ.calculSolutions();
+        System.out.println("Hello wold");
     }
 }
