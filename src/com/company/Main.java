@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        QuadraticEquation equ = new QuadraticEquation();
-        equ.calculSolutions();
-        System.out.println("Hello wold");
+       // QuadraticEquation equ = new QuadraticEquation();
+        //equ.calculSolutions();
+        Fibonacci fib =new Fibonacci();
+        fib.suiteFibonacci(15);
     }
 }
